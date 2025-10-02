@@ -1,3 +1,5 @@
+//Bernal Esteban, Jiménez Juliana, Meriño Eduardo, Mendez Brian y Mora Zharick
+//Hay que hacer cambios a la board al momento de subirlo, quitarle el espacio asignado al OTA para darselo al programa
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
