@@ -1,3 +1,4 @@
+//Bernal Esteban, Jiménez Juliana, Meriño Eduardo, Mendez Brian y Mora Zharick
 #include "BluetoothSerial.h"
 
 // Objeto para comunicación Bluetooth
