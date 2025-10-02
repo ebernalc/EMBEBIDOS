@@ -1,3 +1,4 @@
+//Bernal Esteban, Jiménez Juliana, Meriño Eduardo, Mendez Brian y Mora Zharick
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <ArduinoJson.h>
